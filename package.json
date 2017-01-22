@@ -1,10 +1,10 @@
 {
-  "name": "gestures",
+  "name": "3tsBlog",
   "version": "1.1.0",
   "description": "blog 3ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Salva1958/3tsV2.git"
+    "url": "git+https://github.com/Salva1958/3ts.git"
   },
   "keywords": [
     "ecosystem:phonegap",
