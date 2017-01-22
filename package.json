@@ -1,0 +1,21 @@
+{
+  "name": "gestures",
+  "version": "1.1.0",
+  "description": "blog 3ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salva1958/3tsV2.git"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "Salvador Dangla Soms",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "http://www.3ts.es"
+  },
+  "homepage": "http://www.3ts.es"
+}

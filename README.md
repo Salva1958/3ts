@@ -1,2 +1,10 @@
-# 3ts
-Blog aesoria empresas
+# Gestures
+
+## Usage
+
+### PhoneGap CLI
+
+    $ phonegap serve
+
+
+
