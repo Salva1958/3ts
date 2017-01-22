@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.3TS.blog" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>3ts Blog</name>
+    <description>
+        Una aplicación para acceder al blog de TicTaxTop Asesores
+    </description>
+    <author email="salva@3ts.es" href="http://www.3ts.es">
+        3TS
+    </author>
+    <content src="index.html" />
+    <icon src="www/img/logo.png" />
+    <access origin="http://www.3ts.es" />
+    <allow-navigation href="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+</widget>
